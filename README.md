@@ -31,7 +31,6 @@ I am a dedicated **Backend Developer** with a passion for building secure, scala
 #### [Smart Backup](https://packagist.org/packages/karim-dev/smart-backup)
 A professional Laravel package for managing database and storage backups with a clean, developer-friendly interface.
 - [![Packagist Version](https://img.shields.io/packagist/v/karim-dev/smart-backup?style=flat-square)](https://packagist.org/packages/karim-dev/smart-backup)
-- [![Total Downloads](https://img.shields.io/packagist/dt/karim-dev/smart-backup?style=flat-square)](https://packagist.org/packages/karim-dev/smart-backup)
 - **Key Features:** Automated backups, Artisan commands, Route macros, and multi-disk support.
 
 ---
@@ -56,7 +55,7 @@ Most of my professional contributions are within private repositories for client
 ### 📫 Connect with Me
 
 - **GitHub:** [@Kareem154](https://github.com/Kareem154)
-- **Email:** [Contact via GitHub](https://github.com/Kareem154)
+- **Email:** [karimsoliman.eg@gmail.com)
 - **Portfolio:** [Check out my repositories](https://github.com/Kareem154?tab=repositories)
 
 <p align="center">
