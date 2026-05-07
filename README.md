@@ -1,91 +1,64 @@
-<h1 align="center">Hi 👋, I'm Karim Mohamed</h1>
+# Hi there, I'm Karim Mohamed 👋
 
-<h3 align="center">
-Backend Developer | Laravel Developer | PHP Developer | Package Author
-</h3>
+### Backend Developer | Laravel Expert | PHP Architect | Package Author
 
-<p align="center">
-I build secure, scalable, and maintainable backend systems using Laravel, PHP, MySQL, APIs, and clean backend architecture.
+I am a dedicated **Backend Developer** with a passion for building secure, scalable, and high-performance web applications. My expertise lies in the **Laravel** ecosystem, where I focus on crafting clean, maintainable code and robust backend architectures.
+
+---
+
+### 🚀 Technical Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 </p>
 
+- **Backend Development:** RESTful APIs, Microservices, Authentication (Sanctum/Passport), Authorization (Gates/Policies).
+- **Laravel Ecosystem:** Service Classes, Repository Pattern, Custom Middleware, Eloquent Relationships, Jobs & Queues.
+- **Database Design:** Optimization, Indexing, Complex Relationships, and Migration Management.
+- **DevOps & Tools:** Git, Docker, cPanel/VPS Management, CI/CD, and Production Debugging.
+- **AI Integration:** Implementing local knowledge-based AI assistants to provide accurate, non-hallucinated responses.
+
+---
+
+### 📦 Featured Work
+
+#### [Smart Backup](https://packagist.org/packages/karim-dev/smart-backup)
+A professional Laravel package for managing database and storage backups with a clean, developer-friendly interface.
+- [![Packagist Version](https://img.shields.io/packagist/v/karim-dev/smart-backup?style=flat-square)](https://packagist.org/packages/karim-dev/smart-backup)
+- [![Total Downloads](https://img.shields.io/packagist/dt/karim-dev/smart-backup?style=flat-square)](https://packagist.org/packages/karim-dev/smart-backup)
+- **Key Features:** Automated backups, Artisan commands, Route macros, and multi-disk support.
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/Kareem154">
-    <img src="https://komarev.com/ghpvc/?username=Kareem154&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://packagist.org/packages/karim-dev/smart-backup">
-    <img src="https://img.shields.io/badge/Packagist-karim--dev%2Fsmart--backup-F28D1A?style=flat&logo=packagist&logoColor=white" alt="Packagist Package" />
-  </a>
-  <img src="https://img.shields.io/badge/Private%20Work-Active-success?style=flat" alt="Private Work Active" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue?style=flat" alt="Backend Engineering" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kareem154&show_icons=true&theme=tokyonight&hide_border=true" alt="Karim's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem154&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 Professional Philosophy
 
-I'm a Backend Developer focused on building real-world web applications, admin dashboards, RESTful APIs, authentication systems, file upload flows, and production-ready Laravel projects.
+> "I believe in writing code that is not just functional, but readable and extensible. My goal is to bridge the gap between complex business requirements and stable, maintainable technical solutions."
 
-Most of my professional work is done in private repositories because it belongs to companies, clients, or internal business systems.  
-Because of that, my public GitHub repositories do not fully represent my actual daily development work.
-
-I care about writing clean code, designing strong database structures, improving performance, securing backend systems, and building solutions that are easy to maintain, debug, and extend.
-
-I enjoy solving backend problems, organizing business logic, improving existing codebases, and turning complex requirements into stable and usable systems.
+Most of my professional contributions are within private repositories for clients and companies. However, I am committed to open-source and continuous learning.
 
 ---
 
-## 💼 Positions & Roles
+### 📫 Connect with Me
 
-### Backend Developer
+- **GitHub:** [@Kareem154](https://github.com/Kareem154)
+- **Email:** [Contact via GitHub](https://github.com/Kareem154)
+- **Portfolio:** [Check out my repositories](https://github.com/Kareem154?tab=repositories)
 
-I work on backend systems, APIs, admin dashboards, database structures, business logic, and production-ready Laravel applications.
-
-### Laravel Developer
-
-I build Laravel applications using clean structure, services, requests, resources, repositories, actions, middleware, authentication, authorization, and modular code organization.
-
-### PHP Developer
-
-I work with PHP to build web applications, backend logic, integrations, validation flows, and reusable components.
-
-### Laravel Package Author
-
-I created and published a Laravel package on Packagist called **Smart Backup** to help Laravel projects manage database and storage backups.
-
-### AI Integration Developer
-
-I work on integrating AI logic inside Laravel applications, especially AI assistants that answer from trusted local knowledge and avoid random or hallucinated responses.
-
----
-
-## 🚀 What I Work On
-
-- Laravel backend development
-- RESTful API development
-- Admin dashboards and control panels
-- Authentication and authorization systems
-- Roles and permissions
-- Database design and relationships
-- File uploads and validation flows
-- Payment and third-party API integrations
-- Laravel package development
-- AI integration inside web applications
-- Production debugging and performance improvement
-- Clean architecture and service-based code organization
-- Business logic implementation for real-world systems
-- cPanel, hosting, deployment, and production issue debugging
-
----
-
-## 📦 Published Laravel Package
-
-### Smart Backup
-
-I created and published a Laravel package called **Smart Backup** on Packagist.
-
-Smart Backup helps Laravel developers create and manage database and storage backups using a cleaner and more Laravel-friendly structure.
-
-You can install it using Composer:
-
-```bash
-composer require karim-dev/smart-backup
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kareem154&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
