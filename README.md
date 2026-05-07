@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Karim Mohamed</h1>
-<h3 align="center">Backend Developer | Laravel Developer | PHP Developer</h3>
+
+<h3 align="center">
+Backend Developer | Laravel Developer | PHP Developer
+</h3>
+
+<p align="center">
+I build secure, scalable, and maintainable backend systems using Laravel, PHP, MySQL, and modern backend development practices.
+</p>
 
 <p align="center">
   <a href="https://github.com/Kareem154">
-    <img src="https://komarev.com/ghpvc/?username=Kareem154&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Kareem154&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -11,104 +18,40 @@
 
 ## 👨‍💻 About Me
 
-I'm a Backend Developer specialized in building clean, secure, and scalable web applications using **PHP** and **Laravel**.
+I'm a Backend Developer focused on building real-world web applications, admin dashboards, RESTful APIs, authentication systems, file upload flows, and production-ready Laravel projects.
 
-I enjoy working on real-world systems, dashboard applications, APIs, authentication flows, file uploads, payment integrations, and AI-powered features.
+Most of my professional work is done in private repositories because it belongs to companies or client projects.  
+Because of that, my public GitHub activity does not fully represent my actual daily development work.
 
-Currently, I'm improving my skills in Laravel package development, clean architecture, API design, and production-ready backend systems.
-
----
-
-## 🚀 What I Do
-
-- Build backend systems using **Laravel**
-- Create RESTful APIs
-- Work with authentication, roles, and permissions
-- Design database structures and relationships
-- Build dashboards and admin panels
-- Handle file uploads, validation, and server-side logic
-- Integrate third-party services and APIs
-- Improve performance, security, and code organization
+I care about writing clean code, designing strong database structures, improving performance, securing backend systems, and building solutions that are easy to maintain and extend.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Work On
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Laravel Smart Backup Package
-A Laravel package for creating and managing database and storage backups with clean configuration and package-ready structure.
-
-### 🔹 Dashboard & Admin Systems
-Backend dashboard systems with authentication, roles, permissions, CRUD operations, validation, and file management.
-
-### 🔹 API-Based Applications
-RESTful APIs with Laravel, authentication, validation, structured responses, and database relationships.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kareem154&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem154&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem154&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem154&theme=tokyo-night" alt="GitHub Activity Graph" />
-</p>
-
----
-
-## 🎯 Currently Learning
-
-- Advanced Laravel architecture
+- Laravel backend development
+- RESTful API development
+- Admin dashboards and control panels
+- Authentication and authorization systems
+- Roles and permissions
+- Database design and relationships
+- File uploads and validation flows
+- Payment and third-party API integrations
 - Laravel package development
-- API security and authentication
-- Clean code and design patterns
-- AI integration in web applications
+- AI integration inside web applications
+- Production debugging and performance improvement
 
 ---
 
-## 📫 Contact Me
+## 📦 Published Laravel Package
 
-<p align="left">
-  <a href="https://github.com/Kareem154" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Kareem154-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+### Smart Backup
 
----
+I created and published a Laravel package called **Smart Backup** on Packagist.
 
-<p align="center">
-  <b>Always learning, building, and improving 🚀</b>
-</p>
+Smart Backup helps Laravel developers create and manage database and storage backups with a cleaner and more Laravel-friendly structure.
+
+You can install it using Composer:
+
+```bash
+composer require karim-dev/smart-backup
