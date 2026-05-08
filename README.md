@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://github.com/Kareem154"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-blue?style=for-the-badge&logo=git&logoColor=white" alt="Portfolio"></a>
 <a href="https://github.com/Kareem154"><img src="https://img.shields.io/badge/GITHUB-KAREEM154-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/kareem-mohamed-578189249/"><img src="https://img.shields.io/badge/LINKEDIN-KAREEM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:karim.mohamed.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -90,7 +91,7 @@ I am a dedicated **Backend Developer** with extensive expertise in building scal
 
 *   **GitHub:** [@Kareem154](https://github.com/Kareem154)
 *   **Email:** [karim.mohamed.dev@gmail.com](mailto:karim.mohamed.dev@gmail.com)
-*   **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+*   **LinkedIn:** [Kareem Mohamed](https://www.linkedin.com/in/kareem-mohamed-578189249/)
 
 ---
 
