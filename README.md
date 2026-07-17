@@ -68,13 +68,8 @@ I am a dedicated **Backend Developer** with extensive expertise in building scal
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem154&layout=compact&theme=dark&hide_border=true" alt="Kareem154's Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem154&theme=dark" alt="Kareem154's GitHub Activity Graph" />
-</p>
-
-### GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem154&layout=compact&theme=dark&hide_border=true" alt="Kareem154's Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kareem154&theme=dark" alt="Kareem154's Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kareem154&show_icons=true&theme=dark&hide_border=true" alt="Kareem154's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem154&theme=dark&hide_border=true" alt="Kareem154's GitHub Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kareem154&theme=dark&no-frame=true" alt="Kareem154's GitHub Trophies" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kareem154&theme=dark" alt="Kareem154's GitHub Activity Graph" />
 </p>
