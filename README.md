@@ -2,8 +2,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Expert;PHP+Architect;Package+Author;Always+Innovating" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-blue?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/GITHUB-KAREEM154-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kareem154)[![LinkedIn](https://img.shields.io/badge/LINKEDIN-KAREEM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-mohamed-578189249/)[![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.mohamed.dev@gmail.com)
+**Backend Developer | Laravel Expert | PHP Architect | Package Author**
 
+<p align="left">
+<a href="https://github.com/Kareem154"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-blue?style=for-the-badge&logo=git&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/kareem-mohamed-578189249/"><img src="https://img.shields.io/badge/LINKEDIN-KAREEM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:karim.mohamed.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 ---
 
 ### 👋 About Me
