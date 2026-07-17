@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Laravel+Expert;PHP+Architect;Package+Author;Always+Innovating" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Kareem154)[![GitHub](https://img.shields.io/badge/GITHUB-KAREEM154-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kareem154)[![LinkedIn](https://img.shields.io/badge/LINKEDIN-KAREEM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-mohamed-578189249/)[![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.mohamed.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-blue?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/GITHUB-KAREEM154-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kareem154)[![LinkedIn](https://img.shields.io/badge/LINKEDIN-KAREEM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-mohamed-578189249/)[![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.mohamed.dev@gmail.com)
 
 ---
 
@@ -64,19 +64,32 @@ I am a dedicated **Backend Developer** with extensive expertise in building scal
 
 ---
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/Kareem154">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kareem154&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Kareem154's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Kareem154">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem154&theme=dark&hide_border=true" alt="Kareem154's GitHub Streak" />
-  </a>
-  <a href="https://github.com/Kareem154">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kareem154&theme=dark&no-frame=true" alt="Kareem154's GitHub Trophies" />
-  </a>
-  <a href="https://github.com/Kareem154">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareem154&layout=compact&theme=dark&hide_border=true" alt="Kareem154's Top Languages" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kareem154&show_icons=true&theme=tokyonight&hide_border=true" alt="Karim's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kareem154&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kareem154&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+*   **GitHub:** [@Kareem154](https://github.com/Kareem154)
+*   **Email:** [karim.mohamed.dev@gmail.com](mailto:karim.mohamed.dev@gmail.com)
+*   **LinkedIn:** [Kareem Mohamed](https://www.linkedin.com/in/kareem-mohamed-578189249/)
+
+---
+
+## ⚡ Availability
+
+*   **Experience Level:** Professional Backend Developer
+*   **Full Time:** ✅ Available
+*   **Freelance:** ✅ Available
+
+> "Turning complex requirements into stable, scalable, and maintainable backend systems."
+
